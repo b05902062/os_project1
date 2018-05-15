@@ -1,2 +1,2 @@
 make
-./project_1_2_modified [input_file]
+sudo ./project_1_2_modified [input_file]
